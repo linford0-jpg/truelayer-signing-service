@@ -7,12 +7,13 @@
     "start": "node index.js",
     "dev": "node index.js"
   },
-"dependencies": {
-  "@truelayer/signing": "github:TrueLayer/truelayer-signing",
-  "express": "^4.18.2",
-  "cors": "^2.8.5"
-},
+  "dependencies": {
+    "@truelayer/signing": "github:TrueLayer/truelayer-signing#main:node",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
   "engines": {
     "node": ">=18.0.0"
   }
 }
+
