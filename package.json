@@ -8,7 +8,7 @@
     "dev": "node index.js"
   },
   "dependencies": {
-    "@truelayer/signing": "https://github.com/TrueLayer/truelayer-signing-js",
+    "@truelayer/signing": "https://codeload.github.com/TrueLayer/truelayer-signing-js/tar.gz/refs/heads/main",
     "express": "^4.18.2",
     "cors": "^2.8.5"
   },
